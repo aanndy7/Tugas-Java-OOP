@@ -5,5 +5,6 @@ public class A {
 		
 		cal.pertambahan(a, b);
 		cal.pengurangan(a, b);
+		cal.perkalian(a, b);
 	}
 }
